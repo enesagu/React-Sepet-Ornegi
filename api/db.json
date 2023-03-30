@@ -1,0 +1,60 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "categoryId": 2,
+        "productName": "Dunlap Hubbard",
+        "quantityPerUnit": "Shoes",
+        "unitPrice": "23",
+        "unitsInStock": 53
+      },
+      {
+        "id": 2,
+        "categoryId": 1,
+        "productName": "Kirsten Sellers",
+        "quantityPerUnit": "Shoes",
+        "unitPrice": "21",
+        "unitsInStock": 3
+      },
+      {
+        "id": 4,
+        "categoryId": 1,
+        "productName": "Acosta Robbins",
+        "quantityPerUnit": "Shoes",
+        "unitPrice": "25",
+        "unitsInStock": 20
+      }
+    ],
+    "categories":[
+        {
+            "id" :1,
+            "categoryName": "Beverages",
+            "seoUrl":"beverages"
+
+
+        },
+        {
+          "id" :2,
+          "categoryName": "Adiddas",
+          "seoUrl":"adiddas"
+
+
+      },
+      {
+        "id" :3,
+        "categoryName": "Puma",
+        "seoUrl":"puma"
+
+
+    },
+    {
+      "id" :4,
+      "categoryName": "Converse",
+      "seoUrl":"converse"
+
+
+  }
+
+
+    ]
+  }
